@@ -18,21 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Pro стосунки
+# email: psyrel@psy.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+   Pro стосунки - це простір для тих, хто хоче краще розуміти себе та свого партнера. Тут ми говоримо про кохання, довіру, емоційну близькість і способи будувати гармонійні стосунки. Реальні історії, поради від психологів, цікаві тести та натхнення для міцного союзу. Будь то перше побачення або 20 років разом – у нас знайдеться щось корисне для кожного.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  style: compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
