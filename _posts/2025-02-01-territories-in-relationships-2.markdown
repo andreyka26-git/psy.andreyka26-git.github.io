@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Територія в стосунках ІІ"
-date:   2024-12-01 14:32:58 +0100
+date:   2025-01-02 14:32:58 +0100
 categories: jekyll update
 ---
 
