@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Слабка дівчина, і байдужий чоловік"
-date:   2025-01-15 14:32:58 +0100
+date:   2025-02-02 14:32:58 +0100
 categories: jekyll update
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Як підтримувати баланс в стосунках"
-date:   2025-01-30 14:32:58 +0100
+date:   2025-02-24 14:32:58 +0100
 categories: jekyll update
 ---
 
