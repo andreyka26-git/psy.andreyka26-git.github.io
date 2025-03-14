@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Як виникають істерики в стосунках"
-date:   2025-03-03 14:32:58 +0100
+date:   2025-03-04 14:32:58 +0100
 categories: jekyll update
 ---
 
